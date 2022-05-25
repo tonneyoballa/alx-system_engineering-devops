@@ -1,2 +1,3 @@
 #!/bin/bashpwd
 pwd
+chmod u+x
